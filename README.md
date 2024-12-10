@@ -6,8 +6,9 @@
 
 ### My Codewars :) 
 ![codewars](https://www.codewars.com/users/Dimon2020_04/badges/large)
+##
 
-## :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
