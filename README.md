@@ -8,7 +8,7 @@
 </p>
 
 ### My Codewars :) 
-![codewars]([https://www.codewars.com/users/PythonLove_2025/badges/large](https://www.codewars.com/users/LovePython_2025/badges/large))
+![codewars](https://www.codewars.com/users/LovePython_2025/badges/large)
 ##
 
 ### :hammer_and_wrench: Languages and Tools :
